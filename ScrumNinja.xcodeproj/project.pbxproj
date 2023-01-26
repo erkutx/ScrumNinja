@@ -80,9 +80,9 @@
 			isa = PBXGroup;
 			children = (
 				99F0B9FE2982A7DA001391A4 /* Theme.swift */,
-				99F0BA032982B2A4001391A4 /* CardView.swift */,
-				99F0BA052982B311001391A4 /* TrailingIconLabelStyle.swift */,
 				99F0BA002982B08A001391A4 /* DailyScrum.swift */,
+				99F0BA052982B311001391A4 /* TrailingIconLabelStyle.swift */,
+				99F0BA032982B2A4001391A4 /* CardView.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
